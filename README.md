@@ -1,4 +1,4 @@
-# Mob simulation Plus
+# Mob simulation Extra
 mob simulation Extra is an unofficial extension of infinity expansion's mob simulation
 it adds 4 new data cards
 
