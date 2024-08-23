@@ -1,20 +1,17 @@
-# Slimefun4 Addon
-This is an example Repository for a generic Slimefun4 Addon.
-In the top left is a button "Use this template", click this to create your own Addon for Slimefun4 using this basic template.
+# Mob simulation Plus
+mob simulation Extra is an unofficial extension of infinity expansion's mob simulation
+it adds 4 new data cards
 
-## How to create your own addon.
-This is a template repository that you can use to create your own Slimefun4 Addon.<br>
-We have also written an extensive step-by-step tutorial which you can find here:<br>
-https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide
+1. Phantom Data Card 
+2.Pig
+3.Piglin
+4.Ghast
 
-## Changing some important things
-Navigate to `src/main/java` and rename the package and the .java File to your liking.<br>
-Suggestion: "me.yourname.yourproject" (all lower case) and "ProjectName.java"<br>
-Example: "me.thebusybiscuit.cooladdon" and "CoolAddon.java"
+requirements
+Slimefun
+Infinityexpansion
+Minecraft 1.16+
 
-Navigate to `src/main/resources/plugin.yml` and change the "author" and "main" attributes.
-You may also want to change the description to something meaningful.
+please report any issues with these aforementioned data cards here and not in infinity expansion
 
-Navigate to `pom.xml` and change the group id to "me.%Your name%" and change the artifact id to the name of your Project.
-
-After that you are good to go, you can now start developing your own Addon for Slimefun4.
+Disclaimer: this is not an official expansion of infinity expansion and any issues or disastifaction are in no way related to the official infinity expansion
